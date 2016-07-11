@@ -1,4 +1,6 @@
 node_modules/
+
+.idea/
 .idea/helloworld.iml
 .idea/jsLibraryMappings.xml
 .idea/libraries/
