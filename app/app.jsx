@@ -8,6 +8,7 @@ var Examples = require('Examples');
 
 //Load Foundation
 require('style!css!foundation-sites/dist/foundation.min.css');
+//Now fire up foundation
 $(document).foundation();
 
 //DOM Method
